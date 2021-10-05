@@ -28,12 +28,21 @@ A collection of open access and copyleft computer science textbooks and courses.
 * 📽️ [Algorithms and Data Structures, Pavel Mavrin]( https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4) (Open Access)
 * 📽️ [CSE 373 - Analysis of Algorithms by Steven Skiena](https://www.youtube.com/watch?v=22hwcnXIGgk&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx) (Open Access)
 * 🌐 [VisuAlgo - visualizing data structures and algorithms through animation](https://visualgo.net/en) (Open Access)
+* 📖 [Algorithm Notes for Professionals](https://goalkicker.com/AlgorithmsBook/) (Creative Commons Attribution-Sharealike) was compiled from Stack Overflow Documentation.
+
+## Competitive Programming
+* 📖 [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book/index.php) (Open Access)
+* 📖 [Principles of Algorithmic Problem Solving by Johan Sannemo](https://www.csc.kth.se/~jsannemo/slask/main.pdf) (Open Access)
+
 
 ## Mathematics
 * 📖 [Mathematics for Computer Science by Eric Lehman, F Thomson Leighton, Albert R Meyer](https://web.archive.org/web/20210427080633/http://courses.csail.mit.edu/6.042/spring18/) (Creative Commons Attribution-NonCommercial-Sharealike 3.0)
   * 📚 [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/course/) (Open Access)
 * 📖 [Discrete Structures for Computer Science, Michiel Smid](https://cglab.ca/~michiel/DiscreteStructures/) (Creative Commons Attribution-ShareAlike 4.0)
+* 📖 [Analytic Combinatorics](https://ac.cs.princeton.edu/home/) (Open Access)
+  * 📽️ [Lectures for the book](https://ac.cs.princeton.edu/online/)
 * 🌐 [Khan Academy](https://www.khanacademy.org/) (Open Access) is great for brushing up on high school math.
+* 📽️ [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (Open Access) is a popular math video channel, and is great for building intuition
 
 ## Machine Learning
 * 📚 [6.036 - Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) (Open Access)
