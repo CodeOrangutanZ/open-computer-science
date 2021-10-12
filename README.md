@@ -20,7 +20,7 @@ A collection of open access and copyleft computer science textbooks and courses.
 * 📖 [Think Python 2e: How To Think Like a Computer scientist by Allan Downey](https://greenteapress.com/wp/think-python-2e/) (Creative Commons Attribution-NonCommercial-ShareAlike 3.0) 
 
 ## Algorithms and Data Structures
-* 📖 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) (Creative Commons Attribution-NonCommercial-ShareAlike-4.0)
+* 📖 [Problem Solving with Algorithms and Data Structures using Python](http://www.openbookproject.net/books/pythonds/) (Creative Commons Attribution-NonCommercial-ShareAlike-4.0)
   * 📽️ [Lectures using the textbook](https://www.youtube.com/c/GerryJenkins/playlists?view=50&sort=dd&shelf_id=2) (Open Access)
 * 📖 [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/) (Creative Commons Attribution 4.0)
 * 📖 [Problems on Algorithms by Ian Parberry](http://ianparberry.com/books/free/) (Karmaware)
